@@ -1,0 +1,13 @@
+name: ZhanTitles
+version: 1.0.0
+main: ru.zhanbyrbay.zhantitles.ZhanTitles
+api-version: '1.21'
+author: Zhanbyrbay
+
+commands:
+  zhantitles:
+    description: Управление титулами
+
+permissions:
+  zhantitles.admin:
+    default: op
